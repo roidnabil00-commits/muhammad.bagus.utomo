@@ -108,7 +108,7 @@ export default function Kontak() {
             >
               Tidak ada pertanyaan yang terlalu kecil. Kalau kamu masih
               bingung soal mentoring, kerjasama, atau sekadar mau cerita
-              situasimu — tuliskan. Bagus baca semuanya.
+              situasimu  tuliskan. Bagus baca semuanya.
             </p>
 
             {/* Contact channels */}
@@ -292,7 +292,7 @@ export default function Kontak() {
                 <label style={labelStyle}>Pesan *</label>
                 <textarea
                   name="message"
-                  placeholder="Ceritakan situasimu — sedetail yang kamu bisa..."
+                  placeholder="Ceritakan situasimu  sedetail yang kamu bisa..."
                   value={form.message}
                   onChange={handleChange}
                   rows={5}

@@ -4,7 +4,7 @@ const testimonials = [
   {
     name: "Rizal F.",
     role: "Mentee Batch 1",
-    text: "Sebelum mentoring sama Kak Bagus, gua sudah 2 tahun muter-muter nggak ke mana. 3 bulan intensif, gua akhirnya punya sistem yang beneran jalan. Bukan cuma motivasi — tapi action plan yang konkret.",
+    text: "Sebelum mentoring sama Kak Bagus, saya sudah 2 tahun muter-muter nggak ke mana. 3 bulan intensif, saya akhirnya punya sistem yang beneran jalan. Bukan cuma motivasi  tapi action plan yang konkret.",
     result: "Omzet +3x dalam 4 bulan",
   },
   {
@@ -16,13 +16,13 @@ const testimonials = [
   {
     name: "Denny K.",
     role: "Mentee Batch 2",
-    text: "Honest banget — ini bukan program ajaib. Tapi Kak Bagus selalu ada tiap kali gua stuck. Bisa WA kapan aja, dijawab serius. Itu yang paling gua appreciate.",
+    text: "Honest banget  ini bukan program ajaib. Tapi Kak Bagus selalu ada tiap kali saya stuck. Bisa WA kapan aja, dijawab serius. Itu yang paling saya appreciate.",
     result: "Bisnis F&B pertama sudah break even",
   },
   {
     name: "Putri A.",
     role: "Fresh Graduate",
-    text: "Lulus kuliah nggak mau langsung jadi karyawan. Gabung mentoring ini dan itu keputusan terbaik. Kak Bagus guide gua dari validasi ide sampai closing customer pertama.",
+    text: "Lulus kuliah nggak mau langsung jadi karyawan. Gabung mentoring ini dan itu keputusan terbaik. Kak Bagus guide saya dari validasi ide sampai closing customer pertama.",
     result: "Revenue pertama dalam 45 hari",
   },
 ];

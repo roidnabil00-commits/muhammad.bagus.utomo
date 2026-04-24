@@ -53,7 +53,7 @@ export default function Footer() {
               }}
             >
               Dari desa tanpa listrik ke kebebasan finansial. Perjalanan ini
-              nyata — dan sekarang Bagus hadir untuk menemani perjalananmu.
+              nyata  dan sekarang Bagus hadir untuk menemani perjalananmu.
             </p>
 
             {/* Social */}
@@ -243,7 +243,7 @@ export default function Footer() {
               fontStyle: "italic",
             }}
           >
-            "Dari nol — beneran."
+            "Dari nol  beneran."
           </p>
         </div>
       </div>

@@ -125,7 +125,7 @@ export default function About() {
                 belum kenal listrik, jalan aspal, apalagi internet.
               </p>
               <p>
-                Saya cuma lulusan SD — bukan karena malas sekolah. Tapi karena{" "}
+                Saya cuma lulusan SD  bukan karena malas sekolah. Tapi karena{" "}
                 <strong style={{ color: "var(--white)" }}>
                   biaya tidak mengizinkan
                 </strong>
@@ -138,11 +138,11 @@ export default function About() {
                 <strong style={{ color: "var(--gold)" }}>
                   tekad dan kesediaan untuk salah
                 </strong>{" "}
-                — berkali-kali, sampai benar.
+                 berkali-kali, sampai benar.
               </p>
               <p>
                 Hari ini, saya berhasil mempensiunkan ibu saya. Membawanya
-                keliling Thailand dan Singapura. Dan kini saya di sini —
+                keliling Thailand dan Singapura. Dan kini saya di sini 
                 bukan untuk pamer, tapi untuk{" "}
                 <strong style={{ color: "var(--white)" }}>
                   menemanimu melakukan hal yang sama

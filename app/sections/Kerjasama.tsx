@@ -4,7 +4,7 @@ const kerjasamaOptions = [
   {
     icon: "",
     title: "Public Speaking & Seminar",
-    desc: "Undang Bagus untuk berbicara di acara wirausaha, seminar bisnis, atau event komunitas. Kisahnya menggerakkan — bukan sekadar motivasi, tapi rencana aksi nyata.",
+    desc: "Undang Bagus untuk berbicara di acara wirausaha, seminar bisnis, atau event komunitas. Kisahnya menggerakkan  bukan sekadar motivasi, tapi rencana aksi nyata.",
     cta: "Hubungi untuk Booking",
   },
   {
@@ -81,7 +81,7 @@ export default function Kerjasama() {
           >
             Bagus percaya bahwa kolaborasi yang tepat menciptakan dampak
             yang lebih besar daripada kerja sendirian. Kalau kamu punya
-            visi yang sejalan — ada ruang untuk kita bicara.
+            visi yang sejalan  ada ruang untuk kita bicara.
           </p>
         </div>
 
@@ -198,7 +198,7 @@ export default function Kerjasama() {
               TIDAK YAKIN KERJASAMA APA YANG COCOK?
             </p>
             <p style={{ fontSize: "15px", color: "rgba(10,10,10,0.7)", marginTop: "4px" }}>
-              Ceritakan dulu — nanti kita cari format yang paling pas bersama.
+              Ceritakan dulu  nanti kita cari format yang paling pas bersama.
             </p>
           </div>
           <button

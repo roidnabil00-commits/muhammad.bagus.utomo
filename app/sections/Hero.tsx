@@ -60,7 +60,7 @@ export default function Hero() {
             textShadow: "0 2px 4px rgba(0,0,0,0.5)",
           }}
         >
-          "Waktu itu mengerikan"
+          "Terlahir miskin bukan salah kita tapi berahir miskin adalah salah kita sendiri "
         </p>
       </div>
     </section>

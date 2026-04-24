@@ -4,12 +4,12 @@ const features = [
   {
     icon: "",
     title: "3 Bulan Intensif",
-    desc: "Bukan sekedar kelas. Ini program terstruktur dengan target bisnis nyata — dari validasi ide sampai sistem yang berjalan.",
+    desc: "Bukan sekedar kelas. Ini program terstruktur dengan target bisnis nyata  dari validasi ide sampai sistem yang berjalan.",
   },
   {
     icon: "",
     title: "Pendampingan 12 Bulan",
-    desc: "Setelah 3 bulan, kamu tidak ditinggal sendirian. Gua temani sampai 1 tahun penuh — karena bisnis itu marathon, bukan sprint.",
+    desc: "Setelah 3 bulan, kamu tidak ditinggal sendirian. saya temani sampai 1 tahun penuh  karena bisnis itu marathon, bukan sprint.",
   },
   {
     icon: "",
@@ -19,12 +19,12 @@ const features = [
   {
     icon: "",
     title: "Belajar dari Luka Nyata",
-    desc: "Materi bukan dari buku teks — tapi dari kesalahan mahal yang sudah Bagus bayar duluan. Kamu tinggal belajar tanpa harus bayar dengan hal yang sama.",
+    desc: "Materi bukan dari buku teks  tapi dari kesalahan mahal yang sudah Bagus bayar duluan. Kamu tinggal belajar tanpa harus bayar dengan hal yang sama.",
   },
   {
     icon: "",
     title: "Sistem, Bukan Sekadar Skill",
-    desc: "Target akhirnya: kamu punya sistem bisnis yang jalan meski kamu tidak ada. Bukan nambah kerjaan — tapi bangun mesin yang bekerja untukmu.",
+    desc: "Target akhirnya: kamu punya sistem bisnis yang jalan meski kamu tidak ada. Bukan nambah kerjaan  tapi bangun mesin yang bekerja untukmu.",
   },
   {
     icon: "",
@@ -92,9 +92,9 @@ export default function Mentoring() {
               lineHeight: 1.8,
             }}
           >
-            Gua sudah jalani jalan itu. Sudah bayar mahal dengan waktu,
+            Saya sudah jalani jalan itu. Sudah bayar mahal dengan waktu,
             tenaga, dan kesalahan. Sekarang saatnya kamu belajar dari
-            ringkasan itu — bukan dari awal lagi.
+            ringkasan itu  bukan dari awal lagi.
           </p>
         </div>
 
@@ -257,8 +257,8 @@ export default function Mentoring() {
                 marginBottom: "32px",
               }}
             >
-              Slot terbatas. Bagus hanya menerima peserta yang benar-benar
-              siap bergerak — bukan sekadar ingin tapi tidak bertindak.
+              Slot terbatas. menerima peserta yang benar-benar
+              siap bergerak  bukan sekadar ingin tapi tidak bertindak.
             </p>
             <div
               style={{

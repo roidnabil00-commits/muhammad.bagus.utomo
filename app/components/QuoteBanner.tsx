@@ -3,7 +3,7 @@
 const quotes = [
   "Kesempatan kamu menjadi saya itu sangat kecil, namun tidak mungkin apabila kamu percaya",
   "Tidak ada warisan yang lebih berharga dari kemampuan untuk bangkit",
-  "Bukan siapa yang mulai lebih dulu — tapi siapa yang tidak berhenti",
+  "Bukan siapa yang mulai lebih dulu  tapi siapa yang tidak berhenti",
   "Dari nol. Beneran.",
 ];
 

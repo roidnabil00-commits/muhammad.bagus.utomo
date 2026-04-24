@@ -1,4 +1,4 @@
-# Bagus Utomo — Personal Website
+# Bagus Utomo  Personal Website
 
 Website personal Muhamad Bagus Utomo. Dark luxury aesthetic dengan gold accents.
 
@@ -72,10 +72,10 @@ bagus-utomo/
 ### 1. Nomor WhatsApp
 Cari dan replace semua `62XXXXXXXXXX` dengan nomor WA Bagus (format: 628xxxxxxxxxx):
 
-- `app/sections/Mentoring.tsx` — line ~90
-- `app/sections/Kerjasama.tsx` — line ~80
-- `app/sections/Kontak.tsx` — line ~60 & ~140
-- `app/components/Footer.tsx` — beberapa tempat
+- `app/sections/Mentoring.tsx`  line ~90
+- `app/sections/Kerjasama.tsx`  line ~80
+- `app/sections/Kontak.tsx`  line ~60 & ~140
+- `app/components/Footer.tsx`  beberapa tempat
 
 ### 2. Foto Bagus
 Di `app/sections/About.tsx`, cari komentar `{/* Replace this div's content with <img> when photo is ready */}`.
@@ -121,9 +121,9 @@ Semua warna ada di `app/globals.css`:
 ```
 
 Font:
-- **Playfair Display** — Heading, serif, editorial
-- **DM Sans** — Body, nav, buttons
-- **Bebas Neue** — Stats, large numbers, banner
+- **Playfair Display**  Heading, serif, editorial
+- **DM Sans**  Body, nav, buttons
+- **Bebas Neue**  Stats, large numbers, banner
 
 ---
 
@@ -132,7 +132,7 @@ Font:
 Website sudah responsive untuk:
 - ✅ Desktop (1200px+)
 - ✅ Tablet (768px–1200px)
-- ✅ Mobile (< 768px) — hamburger menu + stacked layout
+- ✅ Mobile (< 768px)  hamburger menu + stacked layout
 
 ---
 
@@ -145,7 +145,7 @@ Website sudah responsive untuk:
 4. Tambahkan link di `Navbar.tsx` array `navLinks`
 
 ### Ganti font
-Edit `app/globals.css` di baris `@import url(...)` — ganti dengan Google Font lain.
+Edit `app/globals.css` di baris `@import url(...)`  ganti dengan Google Font lain.
 
 ---
 
